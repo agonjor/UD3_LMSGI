@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:s="Género del Autor"
+xmlns:l="Género del libro">
+<libreria>
+<libro id="1">
+    <autores>
+        <autor>
+            <nombre>Miguel</nombre>
+            <apellido1>De Cervantes</apellido1>
+            <apellido2>Saavedra></apellido2>
+            <s:genero>Hombre</s:genero>
+        </autor>
+    </autores>
+    <l:genero>Sátira, Épica, Caballería</l:genero>
+    <idioma-original>Español</idioma-original>
+    <titulo>Don Quijote de la Mancha</titulo>
+    <editorial>Imprenta de Juan de la Cuesta</editorial>
+    <ISBN>9780936388878</ISBN>
+    <fechaPublicacion>1605</fechaPublicacion>
+</libro>
+<libro id="2">
+    <autores>
+        <autor>
+            <nombre>Charles John</nombre>
+            <apellido1>Huffam</apellido1>
+            <apellido2>Dickens</apellido2>
+            <s:genero>Hombre</s:genero>
+        </autor>
+    </autores>
+    <l:genero>Novelas, Novelas Históricas</l:genero>
+    <idioma-original>Inglés</idioma-original>
+    <titulo>Historia de dos ciudades</titulo>
+    <editorial>Chapman &amp; Hall</editorial>
+    <ISBN>9780140430547</ISBN>
+    <fechaPublicacion>1859</fechaPublicacion>
+</libro>
+<libro id="3">
+    <autores>
+        <autor>
+            <nombre>El Señor de los Anillos</nombre>
+            <apellido1>John Ronald</apellido1>
+            <apellido2>Reuel Tolkien</apellido2>
+            <s:genero>Hombre</s:genero>
+        </autor>
+    </autores>
+    <l:genero>Literatura Fantástica, Aventuras</l:genero>
+    <idioma-original>Inglés</idioma-original>
+    <titulo>El Señor de los Anillos</titulo>
+    <editorial>George Allen &amp; Unwin HarperCollins</editorial>
+    <ISBN>9788845292613</ISBN>
+    <fechaPublicacion>1954</fechaPublicacion>
+</libro>
+<libro id="4">
+    <autores>
+        <autor>
+            <nombre>Joanne </nombre>
+            <apellido1>Kathleen </apellido1>
+            <apellido2>Rowling</apellido2>
+            <s:genero>Mujer</s:genero>
+        </autor>
+    </autores>
+    <l:genero>Fantasía, Magia</l:genero>
+    <idioma-original>Inglés</idioma-original>
+    <titulo>Harry Potter y la piedra filosofal</titulo>
+    <editorial>Bloomsbury</editorial>
+    <ISBN>9788869183157</ISBN>
+    <fechaPublicacion>1997</fechaPublicacion>
+</libro>
+<libro id="5">
+    <autores>
+        <autor>
+            <nombre>Antoine Jean-Baptiste</nombre>
+            <apellido1>Marie Roger</apellido1>
+            <apellido2>de Saint-Exupéry</apellido2>
+            <s:genero>Hombre</s:genero>
+        </autor>
+    </autores>
+    <l:genero>Aventura, Infantil, Fábula</l:genero>
+    <idioma-original>Francés</idioma-original>
+    <titulo>El principito</titulo>
+    <editorial>Éditions Gallimard</editorial>
+    <ISBN>9783140464079</ISBN>
+    <fechaPublicacion>1943</fechaPublicacion>
+</libro>
+<libro id="6">
+    <autores>
+        <autor>
+            <nombre>John Ronald</nombre>
+            <apellido1>Reuld</apellido1>
+            <apellido2>Tolkien</apellido2>
+            <s:genero>Hombre</s:genero>
+        </autor>
+    </autores>
+    <l:genero>Literatura Fantástica, Aventuras</l:genero>
+    <idioma-original>Inglés</idioma-original>
+    <titulo>El hobbit</titulo>
+    <editorial>George Allen &amp; Unwin HarperCollins</editorial>
+    <ISBN>9780044403371</ISBN>
+    <fechaPublicacion>1937</fechaPublicacion>
+</libro>
+<libro id="7">
+    <autores>
+        <autor>
+            <nombre>Cao</nombre>
+            <apellido1>Xueqin</apellido1>
+            <apellido2></apellido2>
+            <s:genero>Hombre</s:genero>
+        </autor>
+    </autores>
+    <l:genero>Novela, Saga Familiar</l:genero>
+    <idioma-original>Chino</idioma-original>
+    <titulo>Sueño en el pabellón rojo</titulo>
+    <editorial>Galaxia Gutenberg</editorial>
+    <ISBN>9781616120351</ISBN>
+    <fechaPublicacion>1759–1791</fechaPublicacion>
+</libro>
+<libro id="8">
+    <autores>
+        <autor>
+            <nombre>Jiang</nombre>
+            <apellido1>Zemin</apellido1>
+            <apellido2></apellido2>
+            <s:genero>Hombre</s:genero>
+        </autor>
+    </autores>
+    <l:genero>Política</l:genero>
+    <idioma-original>Chino</idioma-original>
+    <titulo>Triple representatividad</titulo>
+    <editorial>Templando el Acero</editorial>
+    <ISBN>9783847368533</ISBN>
+    <fechaPublicacion>2001</fechaPublicacion>
+</libro>
+<libro id="9">
+    <autores>
+        <autor>
+            <nombre>Agatha Mary</nombre>
+            <apellido1>Clarissa</apellido1>
+            <apellido2>Miller</apellido2>
+            <s:genero>Mujer</s:genero>
+        </autor>
+    </autores>
+    <l:genero>Misterio, Detectivesca, Novelas</l:genero>
+    <idioma-original>Inglés</idioma-original>
+    <titulo>Diez negritos</titulo>
+    <editorial>Collins Crime Club+</editorial>
+    <ISBN>9788467045390</ISBN>
+    <fechaPublicacion>1939</fechaPublicacion>
+</libro>
+<libro id="10">
+    <autores>
+        <autor>
+            <nombre>Charles </nombre>
+            <apellido1>Lutwidge </apellido1>
+            <apellido2>Dodgson </apellido2>
+            <s:genero>Hombre</s:genero>
+        </autor>
+    </autores>
+    <l:genero>Fantasía, Aventura</l:genero>
+    <idioma-original>Inglés</idioma-original>
+    <titulo>Las aventuras de Alicia en el país de las maravillas</titulo>
+    <editorial>Macmillan Publishers</editorial>
+    <ISBN>9780194229647</ISBN>
+    <fechaPublicacion>1865</fechaPublicacion>
+</libro>
+</libreria>
+</root>
